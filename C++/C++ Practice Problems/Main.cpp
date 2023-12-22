@@ -13,6 +13,24 @@ void Problem_9();
 void Problem_10();
 void Problem_11();
 void Problem_12();
+void Problem_13();
+void Problem_14();
+void Problem_15();
+void Problem_16();
+void Problem_17();
+void Problem_18();
+void Problem_19();
+void Problem_20();
+void Problem_21();
+void Problem_22();
+void Problem_23();
+void Problem_24();
+void Problem_25();
+void Problem_26();
+void Problem_27();
+void Problem_28();
+void Problem_29();
+void Problem_30();
 
 
 int main() {
@@ -29,4 +47,22 @@ int main() {
     //Problem_10();
     //Problem_11();
     //Problem_12();
+    //Problem_13();
+    //Problem_14();
+    //Problem_15();
+    //Problem_16();
+    //Problem_17();
+    //Problem_18();
+    //Problem_19();
+    //Problem_20();
+    //Problem_21();
+    //Problem_22();
+    //Problem_23();
+    //Problem_24();
+    //Problem_25();
+    //Problem_26();
+    //Problem_27();
+    //Problem_28();
+    //Problem_29();
+    Problem_30();
 }
