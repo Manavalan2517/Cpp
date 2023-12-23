@@ -31,6 +31,8 @@ void Problem_27();
 void Problem_28();
 void Problem_29();
 void Problem_30();
+void Problem_31();
+void Problem_32();
 
 
 int main() {
@@ -64,5 +66,7 @@ int main() {
     //Problem_27();
     //Problem_28();
     //Problem_29();
-    Problem_30();
+    //Problem_30();
+    //Problem_31();
+    Problem_32();
 }

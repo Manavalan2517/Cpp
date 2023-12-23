@@ -152,6 +152,8 @@
     <ClCompile Include="Problem_29.cpp" />
     <ClCompile Include="Problem_3.cpp" />
     <ClCompile Include="Problem_30.cpp" />
+    <ClCompile Include="Problem_31.cpp" />
+    <ClCompile Include="Problem_32.cpp" />
     <ClCompile Include="Problem_4.cpp" />
     <ClCompile Include="Problem_5.cpp" />
     <ClCompile Include="Problem_6.cpp" />
