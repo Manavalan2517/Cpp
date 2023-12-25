@@ -154,7 +154,16 @@
     <ClCompile Include="Problem_30.cpp" />
     <ClCompile Include="Problem_31.cpp" />
     <ClCompile Include="Problem_32.cpp" />
+    <ClCompile Include="Problem_33.cpp" />
+    <ClCompile Include="Problem_34.cpp" />
+    <ClCompile Include="Problem_35.cpp" />
+    <ClCompile Include="Problem_36.cpp" />
+    <ClCompile Include="Problem_37.cpp" />
+    <ClCompile Include="Problem_38.cpp" />
+    <ClCompile Include="Problem_39.cpp" />
     <ClCompile Include="Problem_4.cpp" />
+    <ClCompile Include="Problem_40.cpp" />
+    <ClCompile Include="Problem_41.cpp" />
     <ClCompile Include="Problem_5.cpp" />
     <ClCompile Include="Problem_6.cpp" />
     <ClCompile Include="Problem_7.cpp" />

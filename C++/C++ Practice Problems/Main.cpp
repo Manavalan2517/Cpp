@@ -33,6 +33,15 @@ void Problem_29();
 void Problem_30();
 void Problem_31();
 void Problem_32();
+void Problem_33();
+void Problem_34();
+void Problem_35();
+void Problem_36();
+void Problem_37();
+void Problem_38();
+void Problem_39();
+void Problem_40();
+void Problem_41();
 
 
 int main() {
@@ -68,5 +77,14 @@ int main() {
     //Problem_29();
     //Problem_30();
     //Problem_31();
-    Problem_32();
+    //Problem_32();
+    //Problem_33();
+    //Problem_34();
+    //Problem_35();
+    //Problem_36();
+    //Problem_37();
+    //Problem_38();
+    //Problem_39();
+    //Problem_40();
+    Problem_41();
 }
